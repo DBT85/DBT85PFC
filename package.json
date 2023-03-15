@@ -1,6 +1,6 @@
 {
   "name": "DBT85-PDC",
-  "version": "2.6.1",
+  "version": "1.0.0",
   "description": "A modified power distribution card for Home Assistant",
   "keywords": [
     "home-assistant",
