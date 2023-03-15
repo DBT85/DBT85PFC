@@ -8,7 +8,7 @@
 
 ## Goal/Scope
 
-Display current power, gas, and water usage in a display that matches the the official Energy Distribution card included with [Home Assistant](https://home-assistant.io/) as much as possible. As such, additional features that fall outside of that scope will not be added.
+Display current power, gas, and water usage in a display that matches the the official Energy Distribution card included with [Home Assistant](https://home-assistant.io/) as much as possible. As such, additional features that fall outside of that scope will try to be added by the moron in charge of this fork.
 
 ![screenshot](https://user-images.githubusercontent.com/5641964/202307818-4fb8923e-7fea-451f-bb5a-c840cfcc2dae.png)
 
@@ -21,7 +21,7 @@ This card is available in [HACS](https://hacs.xyz/) (Home Assistant Community St
 
 ### Manual install
 
-1. Download and copy `power-flow-card.js` from the [latest release](https://github.com/ulic75/power-flow-card/releases/latest) into your `config/www` directory.
+1. Download and copy `power-flow-card.js` from the [latest release](https://github.com/DBT85/DBT85PFC/releases/latest) into your `config/www` directory.
 
 2. Add the resource reference as decribed below.
 

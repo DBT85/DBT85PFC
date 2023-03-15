@@ -1,7 +1,7 @@
 {
-  "name": "power-distribution-card",
+  "name": "DBT85-PDC",
   "version": "2.6.1",
-  "description": "A power distribution card for Home Assistant",
+  "description": "A modified power distribution card for Home Assistant",
   "keywords": [
     "home-assistant",
     "homeassistant",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ulic75/power-distribution-card/issues"
+    "url": "https://github.com/DBT85/DBT85PFC/issues"
   },
-  "homepage": "https://github.com/ulic75/power-distribution-card#readme",
+  "homepage": "https://github.com/DBT85/DBT85PFC#readme",
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint src/*",
